@@ -44,6 +44,7 @@
 ### 【CoCoIRU】 https://github.com/IBA-HOK/CoCoIRU
 **概要**: 災害時の行政と避難者コミュニティの情報通信用Webアプリケーション  
 **技術**: Svelte, HTML/CSS, TypeScript, Python, SQLite  
+**資料**: [./docs/CoCoIRU.pdf](./docs/CoCoIRU.pdf)  
 
 ### 【ジェッターボ】 非公開リポジトリ
 **概要**: ボードゲームをもとにした、3Dレースゲーム  
@@ -66,4 +67,5 @@
 ### 【Habitap】 https://github.com/Keigo77/PBLProject
 **概要**: 講義中の居眠りを防止するAndroidアプリ  
 **技術**: Unity, C#  
+
 **資料**: [./docs/Habitap.pdf](./docs/Habitap.pdf)  
